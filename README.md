@@ -1,4 +1,4 @@
-# SOLAR-RADIATION-PREDICTION
+# Predicting level of solar radiation
 -by Arushi Mahwar, student from Birla Institute Of Technology, Mesra, Jaipur campus
 
 This is my project on machine learning.
